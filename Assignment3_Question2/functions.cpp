@@ -24,7 +24,7 @@ bool isPalindrome(string s) {
 		reversedString += s.at(i);
 	}
 
-
+	//If the original string is equal to the reversed string, then s is a palindrome.
 	if (s == reversedString) {
 		isPalindrome = true;
 	}
