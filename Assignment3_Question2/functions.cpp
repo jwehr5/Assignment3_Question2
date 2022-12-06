@@ -1,3 +1,9 @@
+/*
+Jayden Wehr
+functions.cpp
+
+*/
+
 #include <string>
 #include "functions.h"
 #include <iostream>

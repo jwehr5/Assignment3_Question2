@@ -1,3 +1,9 @@
+/*
+Jayden Wehr
+main.cpp
+
+*/
+
 #include <iostream>
 #include "functions.h"
 using namespace std;
